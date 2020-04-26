@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "680547038231",
+    "firebase_url": "https://aviationwiki-c07da.firebaseio.com",
+    "project_id": "aviationwiki-c07da",
+    "storage_bucket": "aviationwiki-c07da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680547038231:android:d302a5f0c1121a8c865852",
+        "android_client_info": {
+          "package_name": "com.aviationwiki.aviationwiki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680547038231-fan7f0s4ghandbbj27qe38om14e2nbe5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQjjeZdY-cXeO9IKwGZTiIS-ruh6snj5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680547038231-fan7f0s4ghandbbj27qe38om14e2nbe5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

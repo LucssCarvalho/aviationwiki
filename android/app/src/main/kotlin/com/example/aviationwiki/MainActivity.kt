@@ -1,4 +1,4 @@
-package com.example.aviationwiki
+package com.aviationwiki.aviationwiki
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
